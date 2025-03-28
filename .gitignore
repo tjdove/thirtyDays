@@ -1,6 +1,19 @@
 # Compiler files
 cache/
 out/
+lib/
+dist/
+build/
+target/
+
+node_modules
+
+*.log
+*.vscode
+.DS_Store
+
+
+package-lock.json
 
 # Ignores development broadcast logs
 !/broadcast
